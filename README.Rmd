@@ -1,7 +1,0 @@
----
-title: "README "
-author: "Nicolas Corneau-Tremblay"
-date: "6/10/2017"
-output: html_document
----
-This folder contains R code and resulting plots from it for the 1st assignment of Exploratory Data Analysis Coursera course. Enjoy!
